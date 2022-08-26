@@ -26,7 +26,7 @@ Created by [Wyatt Ferguson](https://twitter.com/wyattxdev)
 
 ### [:coffee: Buy Me A Coffee](https://www.buymeacoffee.com/wyattferguson)
 
-### [:love_letter: Email Me](wyattxdev@duck.com)
+### [:love_letter: Email Me](mailto:wyattxdev@duck.com)
 
 ### [:speech_balloon: Follow me on Twitter](https://twitter.com/wyattxdev)
 
