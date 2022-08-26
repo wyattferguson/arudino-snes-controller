@@ -1,20 +1,24 @@
 # Arduino Library for SNES Controller
+![PXL_20220826_222949330](https://user-images.githubusercontent.com/503975/186998987-c721a311-448b-4c56-b253-9196053ed956.jpg)
 
 SNES controllers are a great, easy input for any arduino project. Dont worry about fussing with resistors and tiny finger destroying, breadboard buttons. This is a simple library to talk to a standard SNES controller.
 
 Here is the basic pinout of a SNES controller:
+const int DATA_PIN = 2;   // Green Wire
+const int LATCH_PIN = 3;  // Purple Wire
+const int CLOCK_PIN = 4; 
 
 ```
   SNES Connector Layout (SNS-005)
   ---
-  |0| - 5V - White Wire
-  |0| - CLOCK - Yellow Wire
-  |0| - LATCH - Orange Wire
-  |0| - DATA - Red Wire
+  |0| - 5V - White Wire -> 5V PIN
+  |0| - CLOCK - Yellow Wire -> PIN 4
+  |0| - LATCH - Orange Wire -> PIN 3
+  |0| - DATA - Red Wire -> PIN 2
   ---
   |0| - X
   |0| - X
-  |0| - GND - Brown Wire
+  |0| - GND - Brown Wire -> GND PIN
   ---
 ```
 
