@@ -4,9 +4,6 @@
 SNES controllers are a great, easy input for any arduino project. Dont worry about fussing with resistors and tiny finger destroying, breadboard buttons. This is a simple library to talk to a standard SNES controller.
 
 Here is the basic pinout of a SNES controller:
-const int DATA_PIN = 2;   // Green Wire
-const int LATCH_PIN = 3;  // Purple Wire
-const int CLOCK_PIN = 4; 
 
 ```
   SNES Connector Layout (SNS-005)
