@@ -1,4 +1,4 @@
-# Arduino Library for SNES Controller
+#  :doughnut: Arduino Library for SNES Controller
 ![PXL_20220826_222949330](https://user-images.githubusercontent.com/503975/186998987-c721a311-448b-4c56-b253-9196053ed956.jpg)
 
 SNES controllers are a great, easy input for any arduino project. Dont worry about fussing with resistors and tiny finger destroying, breadboard buttons. This is a simple library to talk to a standard SNES controller.
@@ -21,14 +21,10 @@ Here is the basic pinout of a SNES controller:
 
 [Bitluni](http://bitluni.net/gamepad) has a great write up about how the controller protocol works and a short video of how to splice the controller cable.
 
-## :goggles: Credit, Contact & Support
+## :postbox: Contact & Support
 
-Created by [Wyatt Ferguson](https://twitter.com/wyattxdev)
+Created by [Wyatt Ferguson](wyattxdev@duck.com)
 
-### [:coffee: Buy Me A Coffee](https://www.buymeacoffee.com/wyattferguson)
+For any comments or questions your can email me at [wyattxdev@duck.com](wyattxdev@duck.com)
 
-### [:love_letter: Email Me](mailto:wyattxdev@duck.com)
-
-### [:speech_balloon: Follow me on Twitter](https://twitter.com/wyattxdev)
-
-<br>
+[:coffee: Buy Me A Coffee](https://www.buymeacoffee.com/wyattferguson)
