@@ -21,10 +21,16 @@ Here is the basic pinout of a SNES controller:
 
 [Bitluni](http://bitluni.net/gamepad) has a great write up about how the controller protocol works and a short video of how to splice the controller cable.
 
-## :postbox: Contact & Support
+## Contact + Support
 
-Created by [Wyatt Ferguson](wyattxdev@duck.com)
+Created by [Wyatt Ferguson](https://wyattf.bsky.social)
 
-For any comments or questions your can email me at [wyattxdev@duck.com](wyattxdev@duck.com)
+For any questions or comments heres how you can reach me:
 
-[:coffee: Buy Me A Coffee](https://www.buymeacoffee.com/wyattferguson)
+### :mailbox_with_mail: Email me at [wyattxdev@duck.com](wyattxdev@duck.com)
+
+### :tropical_drink: Follow on [BlueSky @wyattf](https://wyattf.bsky.social)
+
+If you find this useful and want to tip me a little coffee money:
+
+### :coffee: [Buy Me A Coffee](https://www.buymeacoffee.com/wyattferguson)
